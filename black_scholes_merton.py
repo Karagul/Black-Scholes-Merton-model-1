@@ -1,7 +1,7 @@
 import math
 import numpy as np
 
-Valuation of a European call option by Monte Carlo simulation and Black Scholes Merton model:
+#Valuation of a European call option by Monte Carlo simulation and Black Scholes Merton model:
 
 #S0: Initial asset price
 #K: strike price
